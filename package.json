@@ -2,7 +2,7 @@
     "name": "argo",
     "displayName": "argo",
     "description": "this theme is for dark mode lovers",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.56.0"
     },
@@ -10,8 +10,9 @@
     "author": {
         "name": "Samir Mishra"
     },
+    "repository": "https://github.com/smir45/argo-theme-source-code",
     "license": "MIT",
-    "homepage": "https://github.com/smir45/gl00my-vscode-theme",
+    "homepage": "https://github.com/smir45/argo-theme-source-code",
     "keywords": [
         "VSCode gloomy theme"
     ],
