@@ -2,9 +2,10 @@
     "name": "argo",
     "displayName": "argo",
     "description": "this theme is for dark mode lovers",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
-        "vscode": "^1.56.0"
+        "vscode": "^1.56.0",
+        "vscode": "^1.54.1"
     },
     "publisher": "smir45",
     "author": {
