@@ -2,7 +2,7 @@
     "name": "argo",
     "displayName": "argo",
     "description": "this theme is for dark mode lovers",
-    "version": "0.0.4",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.56.0",
         "vscode": "^1.54.1"
